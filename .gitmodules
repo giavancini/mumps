@@ -1,9 +1,9 @@
 [submodule "parmetis"]
 	path = parmetis
-	url = https://github.com/scivision/parmetis
+	url = https://github.com/giavancini/parmetis
 [submodule "scotch"]
 	path = scotch
-	url = https://github.com/scivision/scotch
+	url = https://github.com/giavancini/scotch
 [submodule "scalapack"]
 	path = scalapack
-	url = https://github.com/scivision/scalapack
+	url = https://github.com/giavancini/scalapack
